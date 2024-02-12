@@ -3,7 +3,7 @@
 O projeto consite na construção de uma aplicação Web que simula um bloco de notas e permite a possibilidade de gravarmoas anotações utilizando aúdio. Construído durante a semana da NLW com o Diego da  <a href="https://www.rocketseat.com.br/"> Rocketseat</a>.
 </p>
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="#">
   <img src="./.github/preview.png">
 </a>
 
